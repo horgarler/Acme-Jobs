@@ -31,7 +31,7 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.alebarmor-link = Enlace de Barba
-
+master.menu.anonymous.fersilleo-link = Enlace de Fernando Silva
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
