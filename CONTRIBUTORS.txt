@@ -15,3 +15,4 @@ The contributors of this project are:
 - Fernando Silva León (fersilleo@alum.us.es)
 - Alejandro Barba Moreno (alebarmor@alum.us.es)
 - Fernando Angulo Moruno (ferangmor@alum.us.es)
+- Alexander Sanchez Hossdorf (alisanhos@alum.us.es)
