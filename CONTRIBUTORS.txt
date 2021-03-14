@@ -14,3 +14,4 @@ The contributors of this project are:
 - Horacio Garcia Lergo (horgarler@alum.us.es)
 - Fernando Silva León (fersilleo@alum.us.es)
 - Alejandro Barba Moreno (alebarmor@alum.us.es)
+- Fernando Angulo Moruno (ferangmor@alum.us.es)
