@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.alebarmor-link" action="https://twitter.com/BillGates/"/>
 			<acme:menu-suboption code="master.menu.anonymous.fersilleo-link" action="https://www.youtube.com/user/spacexchannel"/>
+			<acme:menu-suboption code="master.menu.anonymous.horgarler-link" action="https://www.instagram.com/dr_chumnoy/"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
