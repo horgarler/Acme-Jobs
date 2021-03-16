@@ -16,4 +16,4 @@ The contributors of this project are:
 - Alejandro Barba Moreno (alebarmor@alum.us.es)
 - Fernando Angulo Moruno (ferangmor@alum.us.es)
 - Alexander Sanchez Hossdorf (alisanhos@alum.us.es)
-- Carolina Carrasco Díaz(carcardia2@alum.us.es)
+- Carolina Carrasco Díaz (carcardia2@alum.us.es)
