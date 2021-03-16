@@ -21,6 +21,7 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.alebarmor-link" action="https://twitter.com/BillGates/"/>
+			<acme:menu-suboption code="master.menu.anonymous.horgarler-link" action="https://www.instagram.com/dr_chumnoy/"/>
 			<acme:menu-suboption code="master.menu.anonymous.fersilleo-link" action="https://www.youtube.com/user/spacexchannel"/>	
 			<acme:menu-suboption code="master.menu.anonymous.alisanhos-link" action="https://www.youtube.com/watch?v=gdZLi9oWNZg"/>
 			<acme:menu-suboption code="master.menu.anonymous.ferangmor-link" action="https://es.wikipedia.org/wiki/Harttia_trombetensis"/>
