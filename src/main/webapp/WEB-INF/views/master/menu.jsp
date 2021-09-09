@@ -24,7 +24,6 @@
 			<acme:menu-suboption code="master.menu.anonymous.horgarler-link" action="https://www.instagram.com/dr_chumnoy/"/>
 			<acme:menu-suboption code="master.menu.anonymous.fersilleo-link" action="https://www.youtube.com/user/spacexchannel"/>	
 			<acme:menu-suboption code="master.menu.anonymous.alisanhos-link" action="https://www.youtube.com/watch?v=gdZLi9oWNZg"/>
-			<acme:menu-suboption code="master.menu.anonymous.ferangmor-link" action="https://es.wikipedia.org/wiki/Harttia_trombetensis"/>
 			<acme:menu-suboption code="master.menu.anonymous.carcardia2-link" action="https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N?si=Rpg7f9IiT4uGENMOlsF7qQ"/>
 	
 		</acme:menu-option>
